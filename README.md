@@ -1,5 +1,5 @@
 # FCAV M-Air Pedestrian (FMP) Dataset
-This repository includes a link to FCAV M-Air Pedestrian (FMP) Dataset. A small dataset is provided in this repository as an example. To download the full dataset, please use the link below. The dataset contains monocular RGB images and Planar LiDAR data for pedestrian detection. Videos are also included in this link.
+This repository includes a link to FCAV M-Air Pedestrian (FMP) Dataset. A small dataset along with videos are provided in this repository as an example. To download the full dataset, please use the link below. The dataset contains monocular RGB images and Planar LiDAR data for pedestrian detection. Videos are also included in this link.
 
 [Download full dataset here](https://drive.google.com/open?id=1vBk0fDZRf3Tq3Wauwry4OiminLXkv7Q-)
 
@@ -33,6 +33,7 @@ Kitti
     └── test.txt
 ```
 
+![](media\1_pedestrian.gif)
 
 
 **Projects that use this dataset (as of Nov. 2019)**
