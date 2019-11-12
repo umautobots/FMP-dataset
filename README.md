@@ -1,5 +1,7 @@
 # FCAV M-Air Pedestrian (FMP) Dataset
-This repository includes a link to FCAV M-Air Pedestrian (FMP) Dataset. The dataset contains monocular RGB images and Planar LiDAR data for pedestrian detection, which can be downloaded [here](https://drive.google.com/open?id=1vBk0fDZRf3Tq3Wauwry4OiminLXkv7Q-). Videos are also included in the link.
+This repository includes a link to FCAV M-Air Pedestrian (FMP) Dataset. The dataset contains monocular RGB images and Planar LiDAR data for pedestrian detection, which can be downloaded below. Videos are also included in the link.
+
+[Download dataset here](https://drive.google.com/open?id=1vBk0fDZRf3Tq3Wauwry4OiminLXkv7Q-)
 
 The FMP dataset was collected from an HD camera and a Hokuyo UTM-30LX-EW planar LiDAR mounted on a ROS-enabled Segway mobile robot platform. The dataset was collected in an outdoor environment using the "M-Air" facility at the University of Michigan campus in Ann Arbor, MI, USA in January 2019. A Qualisys Motion Capture system was used to record shoulder key-points of pedestrians for ground truth data.
 
