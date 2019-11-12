@@ -33,7 +33,7 @@ Kitti
     └── test.txt
 ```
 
-![](media\1_pedestrian.gif)
+![1Pedestrian](media/1_pedestrian.gif)
 
 
 **Projects that use this dataset (as of Nov. 2019)**
