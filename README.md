@@ -32,6 +32,7 @@ Kitti
     └── val.txt
     └── test.txt
 ```
+The following is a video of one pedestrian walking inside the M-Air facility, showing projected Planar LiDAR signals and ground truth bounding boxes of the person on the image:
 
 ![1Pedestrian](media/1_pedestrian.gif)
 
